@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Yiibo4.github.io/zh-cn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yiibo4.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://Yiibo4.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://Yiibo4.github.io/zh-cn/"
+                />
+  </url><url>
     <loc>https://Yiibo4.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,6 +34,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://Yiibo4.github.io/zh-cn/categories/"
+                />
+  </url><url>
+    <loc>https://Yiibo4.github.io/zh-cn/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yiibo4.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://Yiibo4.github.io/zh-cn/page/"
                 />
   </url><url>
     <loc>https://Yiibo4.github.io/zh-cn/tags/</loc>
@@ -36,21 +65,16 @@
                 href="https://Yiibo4.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://Yiibo4.github.io/zh-cn/</loc>
+    <loc>https://Yiibo4.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Yiibo4.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://Yiibo4.github.io/ar/"
+                href="https://Yiibo4.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://Yiibo4.github.io/zh-cn/"
+                href="https://Yiibo4.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
